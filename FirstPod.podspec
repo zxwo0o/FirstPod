@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FirstPod'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of FirstPod.简短的说明'
   s.description      = <<-DESC
 TODO: Add long description of the pod here. 写点什么其他的描述文字
