@@ -9,9 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = 'FirstPod'
   s.version          = '0.1.1'
-  s.summary          = 'A short description of FirstPod.简短的说明'
+  s.summary          = 'FirstPod 这是一段摘要、 简短的说明'
   s.description      = <<-DESC
-TODO: Add long description of the pod here. 写点什么其他的描述文字
+TODO: zxwo0o  Add long description of the pod here. 写点什么其他的描述文字
                        DESC
 
   s.homepage         = 'https://github.com/zxwo0o'
