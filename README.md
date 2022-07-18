@@ -22,7 +22,7 @@ pod "FirstPod"
 
 ## Author
 
-zxwo0o, zhuxuwei@taqu.cn
+zxwo0o, 
 
 ## License
 
